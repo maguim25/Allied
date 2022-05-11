@@ -18,8 +18,9 @@ Contemplam o Json abaixo:
   "uf": "SP"
 }
 
-EndPoint (listarPlano)
-- segue com 3 parametros para localizar a lista
+- EndPoint (listarPlano)
+
+segue com 3 parametros para localizar a lista
 
 {
   "tipo": 2,
