@@ -1,6 +1,6 @@
 # Allied
 
-Projeto contempla um Arch Clean com Principios DDD e pouco de Solid. Coloquei protocolos post pelo fato de segurança.
+Projeto contempla um Arch Clean com Principios DDD e pouco de Solid. Coloquei protocolos post na controller pelo fato de segurança.
 
 EndPoint (cadastrar)
 EndPoint (atualizar)
