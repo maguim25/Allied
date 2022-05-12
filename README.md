@@ -1,10 +1,10 @@
 # Allied
 
-Projeto contempla um Arch Clean com Principios DDD e pouco de Solid
+Projeto contempla um Arch Clean com Principios DDD e pouco de Solid. Coloquei protocolos post na controller pelo fato de segurança.
 
-EndPoint (cadastrar)
-EndPoint (atualizar)
-EndPoint (remover)
+- EndPoint (cadastrar)
+- EndPoint (atualizar)
+- EndPoint (remover)
 
 Contemplam o Json abaixo:
 
@@ -18,8 +18,9 @@ Contemplam o Json abaixo:
   "uf": "SP"
 }
 
-EndPoint (listarPlano)
-- segue com 3 parametros para localizar a lista
+- EndPoint (listarPlano)
+
+segue com 3 parametros para localizar a lista
 
 {
   "tipo": 2,
